@@ -1,1 +1,2 @@
 # AirlineResevationSystem
+A standalone java application for airline reservation system. It contains two login modules admin and operator . As an operator you can book flight ticket, search flights, quick book(in case you already knows required details). As an admin you can search ,view, delete tickets from database also you can perform flight management ,fair management and view ,search users(operators). You can search flights which doesn't require any login. After booking it'll generate a e-ticket in PDF format.
